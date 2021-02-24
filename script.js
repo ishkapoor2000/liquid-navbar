@@ -9,11 +9,11 @@ hamburger.addEventListener("click", () => {
 	});
 });
 
-	var typed = new Typed(".type", {
-			strings: [
-				".They don't do anything",
-				],
-			typeSpeed: 60,
-			backSpedd: 60,
-			loop: true
-		});
+var typed = new Typed(".type", {
+	strings: [
+		"They don't do anything",
+	],
+	typeSpeed: 60,
+	backSpedd: 60,
+	loop: true
+});

@@ -55,6 +55,7 @@ nav {
 
 	nav {
 		position: relative;
+		z-index: 100;
 	}
 
 	.hamburger {
